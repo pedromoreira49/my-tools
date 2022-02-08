@@ -11,4 +11,7 @@ Tools I use in my Unix environment:
 * libssl-dev
 * subversion
 * checkinstall
-
+* apache2
+* mysql
+* apache2-php
+* php-mysql
