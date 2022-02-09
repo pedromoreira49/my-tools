@@ -15,3 +15,5 @@ Tools I use in my Unix environment:
 * mysql
 * apache2-php
 * php-mysql
+* apt-transport-https
+* sublime-text
